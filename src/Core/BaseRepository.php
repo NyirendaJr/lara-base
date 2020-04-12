@@ -1,7 +1,7 @@
 <?php
 
 namespace Thelabdevtz\LaraBase\Core;
-use App\Components\Core\Utilities\Helpers;
+use Thelabdevtz\LaraBase\Core\Utilities\Helpers;
 use Illuminate\Database\Eloquent\Model;
 use Illuminate\Pagination\LengthAwarePaginator;
 
